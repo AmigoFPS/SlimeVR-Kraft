@@ -60,7 +60,6 @@ The case models feature embedded letter codes to identify their intended body po
 
 | Contributor | Description | Link |
 | :--- | :--- | :--- |
-| Brassflamingo and BrisIbis | A lot of help with Prototyping. | N/A |
 | SlimeVR Team | Everything SlimeVR | [https://github.com/SlimeVR](https://github.com/SlimeVR) |
 | Sctanf | Smol-Slime Firmware and Hardware design. | [https://github.com/SlimeVR/SlimeVR-Tracker-nRF](https://github.com/SlimeVR/SlimeVR-Tracker-nRF) |
 | ShineBrightMeow | Smol-Slime Documentation | [https://docs.shinebright.dev/diy/smol-slime.html](https://docs.shinebright.dev/diy/smol-slime.html) |
