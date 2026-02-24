@@ -14,7 +14,7 @@ A custom 3D printed case design for SlimeVR trackers, featuring a comprehensive 
 | 401230 3.7V 110mAh Battery | L0110 | [https://www.aliexpress.com/item/714331867.html?mp=1](https://www.aliexpress.com/item/714331867.html?mp=1) |
 | IMU of Choice(Refer to Smol Documentation for compatibility) | N/A | [https://docs.shinebright.dev/diy/smol-slime.html#tracker](https://docs.shinebright.dev/diy/smol-slime.html#tracker) |
 | nRF52840 Dongle (eByte(E104-BT5040U) or Nordic Semiconductor(PCA10059) or SuperMini) | N/A | N/A |
-| VyroVR Straps | N/A | [https://vyrovr.com/ibis-tracker-straps/](https://vyrovr.com/ibis-tracker-straps/) |
+| DIY Strap | 30mm | [https://www.aliexpress.com/item/1005003917576160.html?mp=1](https://www.aliexpress.com/item/1005003917576160.html?mp=1) |
 
 > **Important**
 >
@@ -26,6 +26,7 @@ The project contains `.step` files for modification and printing:
 
 *   **Calibration Station**: `src/calibration station/calibration station.step`
 *   **Main Case**: `src/case/case.step`
+*   **Fastener**: `src/fastener/30mm strap fastener.step`
 *   **Covers**: `src/covers/`
     *   **Torso**: Waist (`caseW`), Chest (`caseC`)
     *   **Left Side**: `caseL1`, `caseL2`, Arm (`caseLA`), Foot (`caseLF`)
@@ -55,6 +56,9 @@ The case models feature embedded letter codes to identify their intended body po
 
 ![Calibration Station](photo/calibration-station.png)
 *Calibration Station*
+
+![DIY Strap](photo/diy%20-30-mm-strap.png)
+*DIY Strap Assembly*
 
 ## Credit
 
